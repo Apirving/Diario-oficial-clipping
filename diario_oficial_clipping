@@ -25,7 +25,7 @@ div
 	display:flex;
 	flex-direction:column;
 	align-items:center;
-	background-image:url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/governo/gestao/doc/bg.png")}
+	
 .x_folha
 	{padding:0px;
 	padding-left:0px;
